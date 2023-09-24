@@ -1,19 +1,16 @@
 # Data-Analysis-Bellabeat
-Data insights for Bellbeat app
-Goal of the project
-The purpose of this analysis project is searching for user patterns of usage of their smart devices in order to gain insights that would later better orientate marketing decisions and unlock new growth opportunities for Bellabeat. So, main business objectives are:
 
-How do our users use smart devices?
-Identify trends in how consumers use non Bellabeat smart devices to apply insights into Bellabeat’s marketing strategy.
-The analysis of fitbit tracking data and visulation of results are done using Python libraries.
 
-Data Processing
-Data will get processed and cleaned with the help of python libraries:
 
-Correctly format columns name and types
-Checking irrelevant columns and subsetting dataset
-Check for duplicate rows and missing values
-Analysis Approach
+
+
+
+
+
+
+
+
+
 Category analysis will done by creating two categorization of the users, by level of physical activity and device usage.
 
 physical activity would follow these arguments:
@@ -97,10 +94,27 @@ It contains the data of 33 users.
 
 
 
-# Data Analytics Customer Segmentation
+# Data insights for the Bellabeat app
 
 ## Goal of the project
-The goal of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing an RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis, the customer segment was divided into 11 groups. The analysis will help in determining which customer segments should be targeted in order to enhance sales revenue for the company. A **Sales Dashboard for Customer Segmentation** is developed using **Tableau** and the data quality assessment and analysis is done using **Python**.
+The purpose of this analysis project is to search for user patterns of usage of their smart devices in order to gain insights that would later better orientate marketing decisions and unlock new growth opportunities for Bellabeat. So, the main business objectives are:
+
++ How do our users use smart devices?
++ Identify trends in how consumers use non-Bellabeat smart devices to apply insights into Bellabeat’s marketing strategy.
+
+The analysis of Fitbit tracking data and visualization of results is done using **Python** libraries.
+
+## Data Processing
+
+Data will get processed and cleaned with the help of Python libraries:
+
++ Correctly format columns names and types
++ Checking irrelevant columns and subsetting the dataset
++ Check for duplicate rows and missing values
+
+## Analysis Approach
+
+
 
 ## Tableau Dashboard
 The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/app/profile/chirag.arya4385/viz/Customersegmentationdashboard_16941047002960/SalesDashboard).
