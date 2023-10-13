@@ -92,7 +92,8 @@ The tools used in this project include:
 + **Python** - This was needed to conduct Data Quality Assessment and also for Data Cleaning processes. With Python libraries **pandas, numpy, matplotlib, seaborn, datetime** exploratory data analysis of the datasets and gaining useful insights from the data was possible. python code used accessible through this [link](https://colab.research.google.com/drive/1SLsItiFWJGI9KpX-YHn558i80lZQrZ3i?usp=sharing).
 
 ## Built With
-+ Python 3.10.11, Google Colab
++ Python 3.10.11
++ Google Colab
 
 ## Authors
 + Chirag Arya - [Github Profile](https://github.com/AryaChirag)
